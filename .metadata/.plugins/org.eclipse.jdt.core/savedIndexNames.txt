@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+F:\Publicis Sapient\PJP2.0\PJP2_Week2\CalculatorDateTime\.metadata\.plugins\org.eclipse.jdt.core
+1010459720.index
+1896386436.index
+1243057733.index
+3303258216.index
+958848750.index
+1910871276.index
